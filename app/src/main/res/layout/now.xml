@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/degree_text"
         android:layout_gravity="end"
-        android:textColor="#fff"
+        android:textColor="#ccc"
         android:textSize="60sp"/>
     <TextView
         android:layout_width="wrap_content"
